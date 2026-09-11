@@ -1,0 +1,21 @@
+---
+layout: essay
+type: essay
+title: "The Right Way To Ask Questions"
+# All dates must be YYYY-MM-DD format!
+date: 2026-09-09
+published: true
+labels:
+  - Engineering
+---
+
+How to Ask Questions the Smart Way
+When working on anything in general, knowing how to ask a good technical question is an important skill. In Eric Steven Raymond's article, How to Ask Questions the Smart Way, he explains that developers are more likely to receive useful answers when they provide enough information and show that they have tried to solve the problem themselves. A good question should clearly explain the problem, provide relevant information, and provide enough context to make it easy for someone else to understand what is happening. This is especially important on websites such as Stack Overflow, where people are helping each other solve programming problems. Looking at real questions on Stack Overflow shows how the way a question is written can affect the quality and efficiency of the answers.
+
+One good example is the Stack Overflow question, “Why is subtracting these two epoch-milli Times (in year 1927) giving a strange result?” The developer provides Java code, explains the expected result, and shows the unexpected result. They also provide useful information about their environment, including the time zone and Java version. The developer expected two times that were one second apart to have a difference of one second, but the program produced a difference of 353 seconds. This follows several of Raymond's recommendations because the developer describes the symptoms instead of simply guessing what is wrong. The question is also specific enough that other developers can investigate the problem without needing to ask for a lot of additional information.
+
+The responses to the 1927 time question also demonstrate how a well-written question can lead to an effective answer. The accepted answer explains that the strange result was caused by a historical time-zone change in Shanghai. The clocks were moved backward by several minutes, which caused the same local time to occur more than once. Because the original question included the exact dates, times, time zone, code, and unexpected result, the person answering the question had enough information to find the real cause. This shows why Raymond recommends being precise and informative. The developer did not need to provide every detail about their entire project; they provided the details that were directly related to the problem.
+A different example is the Stack Overflow question “ROS2 Humble Installation Environment Setup Issue - ros2 command not found.” This question provides some useful information, such as the use of Ubuntu, WSL, and ROS2 Humble. However, it does not provide as much information as the first example. For example, there is not enough diagnostic output or information about exactly how ROS2 was installed to easily reproduce the problem. The question also does not show many of the troubleshooting steps that were already attempted. Because of this, the responses have to suggest additional checks and ask the developer to verify things such as whether the ROS2 installation and ROS2 executable actually exist. This connects to Raymond's advice to explain what has already been tried and to provide enough information for others to understand the problem.
+
+Comparing these two questions shows why asking technical questions the smart way is important for software engineers. The 1927 time question gives the reader enough information to investigate the problem immediately, while the ROS2 question requires more back-and-forth before the problem can be diagnosed. This does not mean that the ROS2 developer asked a completely bad question, but it could have been more effective with additional technical information and troubleshooting results. I learned that asking a good question is part of solving a programming problem. A smart software engineer should first investigate the problem, clearly describe what they expected and what actually happened, and provide relevant code, errors, and environment information. Doing this helps other developers understand the problem faster and increases the chance of receiving a useful answer.
+
