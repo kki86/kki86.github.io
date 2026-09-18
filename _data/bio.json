@@ -35,9 +35,8 @@
       "area": "Computer Engineering (expected Spring, 2028)",
       "studyType": "B.S.",
       "startDate": "2024",
-      "endDate": "Present",
-       [
-      ]
+      "endDate": "Present"
+    
     }
   ],
   "work": [
@@ -49,8 +48,9 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Developed and maintained CMDB management application",
+        "Bug fixes/maintainence for existing application/features on the ServiceNow platform"
+
       ]
     },
     {
@@ -99,12 +99,6 @@
       "date": "2013-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
