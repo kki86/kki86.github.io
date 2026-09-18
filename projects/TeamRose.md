@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/TeamRoSE/second.png
+image: ../img/TeamRoSE/second.png
 title: "Team RoSE"
 date: 2026
 published: true
@@ -19,31 +19,46 @@ Team RoSE is a student-run Vertically Integrated Project (VIP) focused on design
 <hr>
 
 <pre>
-Team Robotic Space Exploration, Team RoSE, is the robotics team in the University of Hawaii at Manoa which specializes in creating a mock Mars rover for a international competition called URC, University Rover Challenge.
+<p>
+Team Robotic Space Exploration, Team RoSE, is the robotics team at the University of Hawaii at Manoa. The team specializes in creating a mock Mars rover for an international competition called the University Rover Challenge (URC).
+</p>
 
+<p>
 The competition is broken down into four main missions:
+</p>
 
-Science
+<h3>Science</h3>
+<p>
+A mission that involves collecting soil samples from various sites to perform basic scientific evaluation of the samples onboard. The goal is to determine whether there is evidence of microbial life within the collected samples.
+</p>
 
-A mission that involves collecting a soil sample from various sites to preform basic science evaluation of the sample onboard. In order to discover if there were any microbial life that was acquired from the sample sites.
+<h3>Delivery</h3>
+<p>
+A teleoperated mission that involves the rover finding, picking up, and delivering objects to astronauts in the field while also traversing terrain of increasing difficulty.
+</p>
 
-Delivery
+<h3>Equipment Servicing</h3>
+<p>
+A teleoperated mission that requires the rover to interact with a mock lander to perform a series of tasks, including undoing a latch, opening a drawer, and typing in a launch key. This culminates in the precise movement of both the robotic arm and differential drive.
+</p>
 
-A teleoperated mission that involves the rover finding, picking up, and delivering objects to astronauts on the field while also traversing through terrain of increasing difficulty.
+<h3>Autonomous Navigation</h3>
+<p>
+The rover must autonomously travel to two GNSS locations, three posts with AR tags, and two objects. This requires a careful balance of sensors to estimate the rover's location and movement.
+</p>
 
-Equipment Servicing
+<p>
+Within Team RoSE, I initially worked on the controls for the manually controlled 5-degree-of-freedom robotic arm.
+</p>
 
-A teleoperated mission that requires the rover to interact with a mock lander to preform a certain task, including undoing a latch, opening a drawer, and typing in a launch key. Culmating in the precise movement of both the robotic arm and differential drive.
+<p>
+More recent contributions to the team include the development and integration of object detection utilizing a YOLOv8 model trained on approximately 4,000 images for the purpose of identifying several objects in the Utah desert.
+</p>
 
-Autonomous Navigation
+<p>
+This year, I was the main optical systems developer for Team RoSE. I utilized a GStreamer pipeline to allow for smooth image streams from multiple cameras at standard definition with approximately 0.3-second delays.
+</p>
 
-The rover autonomously must travel to two GNSS location, three post with AR tags, and two objects which requires a careful balance of sensors to approximate its location and movement.
-
-Within Team RoSE, I worked initially worked on the controls for the manually controlled 5 degrees of freedom robotic arm. 
-
-More recent contributions to the team were the development and integration of object detection utilizing a yolov8 model trained on about 4000 images for the purpose of finding several objects in the Utah desert. 
-
-This year, I was the main optical systems developer for Team RoSE. Utilized GStreamer pipeline to allow for smooth image streams for multiple camearas at standard Definition with 0.3 second delays. 
 </pre>
 
 <hr>
