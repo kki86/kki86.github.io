@@ -8,7 +8,7 @@ published: true
 labels:
   - ROS2
   - Competition
-  -Autonomous Navigation
+  - Autonomous Navigation
 summary: "A Vertically Integrated Project revolving around robotics and rover building for the University Rover Challenge"
 ---
 
