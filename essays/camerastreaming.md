@@ -4,7 +4,7 @@ type: essay
 title: "USB Camera streaming for broke people (USB2.0 ). GStreamer my hero"
 # All dates must be YYYY-MM-DD format!
 date: 2026-09-16
-published: false
+published: true
 labels:
   - Engineering
 ---
