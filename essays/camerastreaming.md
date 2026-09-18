@@ -14,7 +14,7 @@ USB web cameras, they geninely are saviors for hundreds of poor college students
 
 GStreamer was really useful for getting the video streaming setup working. I was able to stream up to five USB cameras at 640p at the same time, which was more than enough for what I needed. Most of the issues I ran into were not really caused by GStreamer, but more because of USB power limitations or sometimes bandwidth.
 
-<img width="200px" class="rounded float-start pe-4" src="../img/GStreamer/GStreamer_example_pipeline.svg.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/GStreamer/GStreamer_example_pipeline.svg.png">
 
 For troubleshooting, I would usually start by checking the USB bandwidth available. USB 2.0 (not blue) has a limit around 50MBPS limit so make sure you aren't exceeding that. Additionally, the format which the video is formatted matters, MJPG is usually the best as it uses less bits per pixel. If the bandwith looked fine, then I would check if the cameras were getting enough power. After that, I would try things like switching USB ports, testing a different camera, or running the cameras one at a time. Doing that usually made it pretty easy to narrow down what was actually causing the problem.
 
