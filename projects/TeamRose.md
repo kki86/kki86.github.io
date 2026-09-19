@@ -59,6 +59,9 @@ More recent contributions to the team include the development and integration of
 This year, I was the main optical systems developer for Team RoSE. I utilized a GStreamer pipeline to allow for smooth image streams from multiple cameras at standard definition with approximately 0.3-second delays.
 </p>
 
+
+You can find out how we did at [University of Hawaii News](https://www.hawaii.edu/news/2026/08/03/robot-rover-team-record-year/).  
 </pre>
 
 <hr>
+
