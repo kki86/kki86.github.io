@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The goal is consistency"
 # All dates must be YYYY-MM-DD format!
-date: 2026-08-26
+date: 2026-08-24
 published: true
 labels:
   - Software Engineering
