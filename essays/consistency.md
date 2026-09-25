@@ -49,3 +49,6 @@ labels:
     I also think this makes it easier to use older code as a reference. If I have already written something using the same standards, I can look back at it when working on something new. I do not have to figure everything out from scratch. I can use my previous work as an example and build from it.
 </p>
 
+<p> Out of nowhere but, at the end of the day, the being a bad software engineer only hurt yourself. </p>
+
+<img width="300px" class="rounded float-start pe-4" src="../img/cotton/consistency/Consistency.png">
