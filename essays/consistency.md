@@ -10,7 +10,6 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
 <h1>Consistency Makes Coding Easier</h1>
 
 <p>
