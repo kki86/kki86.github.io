@@ -50,4 +50,5 @@ labels:
 
 <p> Out of nowhere but, at the end of the day, the being a bad software engineer only hurt yourself. </p>
 
-<img width="300px" class="rounded float-start pe-4" src="../img/cotton/consistency/Consistency.png">
+<img width="500px" class="rounded mx-auto d-block"
+     src="../img/cotton/consistency/Consistency.png">
