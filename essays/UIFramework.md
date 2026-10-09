@@ -9,8 +9,7 @@ title: "Initial Thoughts on UI Frameworks"
 date: 2026-10-09
 published: true
 labels:
-
-* Engineering
+  - Software Engineering
 
 ---
 
