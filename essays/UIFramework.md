@@ -5,7 +5,6 @@ type: essay
 title: "Initial Thoughts on UI Frameworks"
 
 # All dates must be YYYY-MM-DD format!
-
 date: 2026-10-09
 published: true
 labels:
