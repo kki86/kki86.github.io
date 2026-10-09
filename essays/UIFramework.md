@@ -1,16 +1,12 @@
 ---
-
 layout: essay
 type: essay
-title: "Initial Thoughts on UI Frameworks"
-
+title: "TypeScript and Initial Thoughts"
 # All dates must be YYYY-MM-DD format!
-
-date: 2026-10-09
+date: 2026-09-09
 published: true
 labels:
-  - Software Engineering
-
+  - Engineering
 ---
 
 ## UI Frameworks
